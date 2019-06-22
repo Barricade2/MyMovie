@@ -1,0 +1,16 @@
+### Django ###
+*.pyc
+local_settings.py
+
+### OSX ###
+.DS_Store
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+
+env
+db.sqlite3
+*~
+path
